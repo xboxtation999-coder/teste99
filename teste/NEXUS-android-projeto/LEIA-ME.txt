@@ -1,0 +1,6 @@
+Projeto Android gerado por HTML → APK.
+
+Opção 1 (GitHub): envie estes arquivos para um repositório. Em Actions > Build APK, baixe o artefato "apk".
+Opção 2 (Android Studio): abra esta pasta e use Build > Build APK(s).
+
+Seus arquivos web estão em app/src/main/assets/www/ (entrada: index.html).
